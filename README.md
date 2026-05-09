@@ -48,7 +48,7 @@ After cloning the repository, the folder structure should look like this:
 ```
 wildfire-risk-modeling/
 │
-├── wildfire_detection.ipynb
+├── wildfire-risk-modeling.ipynb
 ├── fires.csv
 └── README.md
 ```

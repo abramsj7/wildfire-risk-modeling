@@ -87,7 +87,7 @@ jupyter lab
 Then open:
 
 ```
-wildfire_detection.ipynb
+wildfire-risk-modeling.ipynb
 ```
 
 Run the notebook cells from top to bottom to reproduce the analysis and results.

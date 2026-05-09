@@ -46,7 +46,7 @@ The dataset is filtered to include only the contiguous United States (CONUS).
 After cloning the repository, the folder structure should look like this:
 
 ```
-COMP-4449-Project-2/
+wildfire-risk-modeling/
 │
 ├── wildfire_detection.ipynb
 ├── fires.csv
@@ -60,8 +60,8 @@ COMP-4449-Project-2/
 ### Step 1 — Clone the Repository
 
 ```
-git clone https://github.com/abramsj7/COMP-4449-Project-2.git
-cd COMP-4449-Project-2
+git clone https://github.com/abramsj7/wildfire-risk-modeling.git
+cd wildfire-risk-modeling
 ```
 
 ---

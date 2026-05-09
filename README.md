@@ -1,6 +1,6 @@
 # Wildfire Risk Modeling
 
-Spatial machine learning project analyzing NASA satellite wildfire detections to classify wildfire intensity and evaluate the impact of spatial features on model performance.
+Spatial machine learning project analyzing NASA wildfire detections to model fire intensity and evaluate spatial feature impact.
 
 ---
 

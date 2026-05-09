@@ -1,14 +1,6 @@
-# Geospatial Wildfire ML
+# Wildfire Risk Modeling
 
 Spatial machine learning project analyzing NASA satellite wildfire detections to classify wildfire intensity and evaluate the impact of spatial features on model performance.
-
----
-
-# Spatial Machine Learning for Wildfire Detection
-
-Author: Jordon Abrams  
-Course: COMP 4449  
-Date: March 2026  
 
 ---
 

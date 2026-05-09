@@ -124,3 +124,15 @@ These results demonstrate that spatial relationships between wildfire detections
 # Reproducibility
 
 This project is fully reproducible using the provided dataset and notebook. Running the notebook from top to bottom will reproduce all figures, spatial analyses, and machine learning results.
+
+---
+
+## Interview Talking Points
+
+- Built a spatial machine learning workflow using NASA wildfire detection data.
+- Performed geospatial analysis to identify wildfire activity patterns across regions.
+- Used data preprocessing and feature engineering to prepare environmental data for modeling.
+- Applied machine learning techniques to classify or predict wildfire intensity/risk.
+- Created visualizations and heatmaps to communicate spatial fire trends and model results.
+- Evaluated model performance and explored the impact of spatial features on prediction accuracy.
+- Worked extensively in Python using libraries such as Pandas, Scikit-learn, Matplotlib, and GeoPandas.
